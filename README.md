@@ -1,4 +1,4 @@
- # laquipedados
+\# laquipedados
 
 Dados para o livro de BioestatÃƒÂ­stica
 
@@ -14,4 +14,6 @@ Vamos testar agora apos remoÃ§Ã£p.
 
 Novos testes. sfsfsgs
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV\
