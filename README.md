@@ -8,7 +8,8 @@ Gostei Muito disso, de colaborar com outras pessoas !!! Show !
 
 Está ficando bom. Vou incluir a capa
 
-![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="20"}
+![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="61"}
 
+Vamos testar agora apos remoçãp.
 
-Vamos testar agora apos remoçãp
+Novos testes.
