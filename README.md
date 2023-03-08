@@ -8,4 +8,4 @@ Gostei Muito disso, de colaborar com outras pessoas !!! Show !
 
 Está ficando bom. Vou incluir a capa
 
-![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="100"}
+![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="80"}
