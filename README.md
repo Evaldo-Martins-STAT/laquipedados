@@ -1,11 +1,13 @@
 # laquipedados
 
-Dados para o livro de Bioestatística
+Dados para o livro de BioestatÃ­stica
 
-Este repositório consiste numa serie dados para serem usados no livro de estatística Aplicada às Ciências Agrárias
+Este repositÃ³rio consiste numa serie dados para serem usados no livro de estatÃ­stica Aplicada Ã s CiÃªncias AgrÃ¡rias
 
 Gostei Muito disso, de colaborar com outras pessoas !!! Show !
 
-Est� ficando bom. Vou incluir a capa
+Está ficando bom. Vou incluir a capa
 
 ![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="80"}
+
+
