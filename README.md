@@ -1,16 +1,16 @@
-# laquipedados
+ # laquipedados
 
-Dados para o livro de BioestatÃ­stica
+Dados para o livro de BioestatÃƒÂ­stica
 
-Este repositÃ³rio consiste numa serie dados para serem usados no livro de estatÃ­stica Aplicada Ã s CiÃªncias AgrÃ¡rias
+Este repositÃƒÂ³rio consiste numa serie dados para serem usados no livro de estatÃƒÂ­stica Aplicada ÃƒÂ s CiÃƒÂªncias AgrÃƒÂ¡rias
 
 Gostei Muito disso, de colaborar com outras pessoas !!! Show !
 
-Está ficando bom. Vou incluir a capa
+EstÃ¡ ficando bom. Vou incluir a capa
 
 ![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="104"}
 
-Vamos testar agora apos remoçãp.
+Vamos testar agora apos remoÃ§Ã£p.
 
 Novos testes. sfsfsgs
 
