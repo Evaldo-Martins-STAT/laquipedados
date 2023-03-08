@@ -1,19 +1,35 @@
+---
+
+---
+
 \# laquipedados
 
-Dados para o livro de BioestatÃƒÂ­stica
+Dados para o livro de BioestatÃ�'Â­stica
 
-Este repositÃƒÂ³rio consiste numa serie dados para serem usados no livro de estatÃƒÂ­stica Aplicada ÃƒÂ s CiÃƒÂªncias AgrÃƒÂ¡rias
+Este repositÃ�'Â³rio consiste numa serie dados para serem usados no livro de estatÃ�'Â­stica Aplicada Ã�'Â s CiÃ�'Âªncias AgrÃ�'Â¡rias
 
 Gostei Muito disso, de colaborar com outras pessoas !!! Show !
 
-EstÃ¡ ficando bom. Vou incluir a capa
+Est� ficando bom. Vou incluir a capa
 
 ![](images/Capa%20de%20Esta%20Pesqueira_3.png){width="104"}
 
-Vamos testar agora apos remoÃ§Ã£p.
+Vamos testar agora ap�s remo��o
 
-Novos testes. sfsfsgs
+Novos testes. s
 
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 
-VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV\
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+jhgjhfhsugfyeigueriog
+
+jgijgkldfjgjkdfjg
+
+gkdjgkdfjgkdjg
+
+hjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+\
