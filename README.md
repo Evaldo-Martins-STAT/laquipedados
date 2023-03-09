@@ -22,6 +22,7 @@ abaixo:
 
 ``` r
 library(readr)
+library(dplyr)
 url = "https://raw.githubusercontent.com/Evaldo-Martins-STAT/laquipedados/master/"
 arq <- "dados/aquifero.csv"
 dados <- read_csv(paste0(url, arq))
