@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-O objetivo deste repositório é servir de base para o livro ***Estatística Aplicada às Ciências Agrárias e Biológicas em R***.
+O objetivo deste repositório é servir de base para o livro ***Estatística Aplicada às Ciências Agrárias e Biológicas em R***. Você pode baixar esses dados que podem ser usados numa determinada análise presentes em um de seus capítulos. Todos esses dados são de pesquisas póprias ou de autores que forneceram ou autoriaram gentilmente seus usos.
 
 ```{r cars, echo=FALSE}
 knitr::include_graphics("images/Capa de Esta Pesqueira_3.png")
@@ -31,7 +31,7 @@ Você pode carregar os conjunto de daos deste pacote com os comandos abaixo:
 
 ```{r exemple, warning= FALSE, message = FALSE}
 library(readr)
-url = "https://raw.githubusercontent.com/Evaldo-Martins-STAT/laquipedados/master/caranguejo.csv"
+url = "https://raw.githubusercontent.com/Evaldo-Martins-STAT/laquipedados/master/dados/aquifero.csv"
 dados <- read_csv(url)
 
 ```
