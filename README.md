@@ -12,6 +12,4 @@ Está ficando bom. Vou incluir a capa
 
 Vamos testar agora apos remoçãp.
 
-Novos testes. sfsfsgs
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Vai dar cagada
