@@ -25,7 +25,7 @@ library(readr)
 library(dplyr)
 url = "https://raw.githubusercontent.com/Evaldo-Martins-STAT/laquipedados/master/"
 arq <- "dados/aquifero.csv"
-dados <- read_csv(paste0(url, arq))
+dados <- read_csv(paste0(url, arq), col_types = 'fdddddf')
 # glimpse(dados)
 ```
 
@@ -57,7 +57,7 @@ Ca
 <th style="text-align:right;">
 Mg
 </th>
-<th style="text-align:right;">
+<th style="text-align:left;">
 Na
 </th>
 </tr>
@@ -82,7 +82,7 @@ E01
 <td style="text-align:right;">
 53.7
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 857.7
 </td>
 </tr>
@@ -105,7 +105,7 @@ E02
 <td style="text-align:right;">
 43.9
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 1054.7
 </td>
 </tr>
@@ -128,7 +128,7 @@ E03
 <td style="text-align:right;">
 119.3
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 1932.4
 </td>
 </tr>
@@ -151,7 +151,7 @@ E04
 <td style="text-align:right;">
 73.6
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 1803.4
 </td>
 </tr>
@@ -174,7 +174,7 @@ E05
 <td style="text-align:right;">
 75.1
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 1691.8
 </td>
 </tr>
@@ -197,7 +197,7 @@ E06
 <td style="text-align:right;">
 63.8
 </td>
-<td style="text-align:right;">
+<td style="text-align:left;">
 1793.9
 </td>
 </tr>
