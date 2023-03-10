@@ -203,3 +203,7 @@ E06
 </tr>
 </tbody>
 </table>
+
+Sempre que possível, observe os tipos de variáveis que vc está usando,
+pois isso é importante para os testes estatísticos e minimizar erros
+durante a execução de códigos.
