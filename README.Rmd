@@ -9,7 +9,7 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   fig.path = "man/figures/README-",
-  out.width = "40%"
+  out.width = "50%"
 )
 ```
 
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 
 O objetivo deste repositório é servir de base para o livro ***Estatística Aplicada às Ciências Agrárias e Biológicas com R,*** fornecendo uma série de dados. Você pode baixá-los para serem usados em determinada análise presente em um capítulo do livro. Todos esses dados são de pesquisas próprias ou de autores que gentilmente os cederam ou autorizaram seus usos.
 
-```{r cars, echo=FALSE}
+```{r cars, echo=FALSE, out.width= "%15%"}
 knitr::include_graphics("images/Capa de Esta Pesqueira_3.png")
 ```
 
