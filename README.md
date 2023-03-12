@@ -219,4 +219,9 @@ dados |> ggplot(aes(x= Ca, y = Mg)) +
 
 A é um gráfico de uma Análise de Regressão Linear Simples. Deu tudo
 certo.  
-Agora vamos fazer de volta
+Agora vamos fazer de volta.  
+iufuufffffffffffffffffffffffffff
+
+rerrrrrrrrrrrrrrrrrrrrrr
+
+errrrrrrrrrrrrrr
