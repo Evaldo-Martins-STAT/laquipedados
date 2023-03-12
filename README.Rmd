@@ -9,7 +9,7 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   fig.path = "man/figures/README-",
-  out.width = "50%"
+  out.width = "40%"
 )
 ```
 
@@ -40,16 +40,16 @@ dados <- read_csv(paste0(url, arq), col_types = 'fdddddf')
 
 -   Exibição dos dados de sua análise
 
-```{r, warning=F, message= F, out.width= "80"}
+```{r, warning=F, message= F}
 library(kableExtra)
 kable(head(dados))
 ```
 
 Sempre que possível, observe os tipos de variáveis que vc está usando, pois isso é importante para os testes estatísticos e minimizar erros durante execução de códigos.
 
-```{r, warning=F}
+```{r, warning=F, , out.width= "80%"}
 library(ggplot2)
 dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_point(size = 3, col = "red") +
-  geom_smooth(method = 'lm', formula = y~x)
+  geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```

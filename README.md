@@ -13,7 +13,7 @@ determinada análise presente em um capítulo do livro. Todos esses dados
 são de pesquisas próprias ou de autores que gentilmente os cederam ou
 autorizaram seus usos.
 
-<img src="images/Capa de Esta Pesqueira_3.png" width="50%" />
+<img src="images/Capa de Esta Pesqueira_3.png" width="40%" />
 
 ## Exemplo de carregamento de dados
 
@@ -212,7 +212,7 @@ durante execução de códigos.
 library(ggplot2)
 dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_point(size = 3, col = "red") +
-  geom_smooth(method = 'lm', formula = y~x)
+  geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="50%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="80%" />
