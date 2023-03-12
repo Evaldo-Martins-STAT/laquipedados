@@ -206,4 +206,12 @@ E06
 
 Sempre que possível, observe os tipos de variáveis que vc está usando,
 pois isso é importante para os testes estatísticos e minimizar erros
-durante a execução de códigos.
+durante execução de códigos.
+
+``` r
+library(ggplot2)
+dados |> ggplot(aes(x= Ca, y = Mg)) +
+  geom_point(size = 3, col = "red") 
+```
+
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="40%" />
