@@ -215,4 +215,4 @@ dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="80%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="60%" />
