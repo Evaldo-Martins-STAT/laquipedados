@@ -211,7 +211,8 @@ durante execução de códigos.
 ``` r
 library(ggplot2)
 dados |> ggplot(aes(x= Ca, y = Mg)) +
-  geom_point(size = 3, col = "red") 
+  geom_point(size = 3, col = "red") +
+  geom_smooth(method = 'lm', formula = y~x)
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="40%" />
