@@ -215,4 +215,8 @@ dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="60%" />
+<img src="man/figures/README-plot1-1.png" width="60%" />
+
+A é um gráfico de uma Análise de Regressão Linear Simples. Deu tudo
+certo.  
+Agora vamos fazer de volta

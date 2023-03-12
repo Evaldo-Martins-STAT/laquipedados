@@ -54,4 +54,5 @@ dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```
 
-A é um gráfico de uma Análise de Regressão Linear Simples.
+A é um gráfico de uma Análise de Regressão Linear Simples. Deu tudo certo.\
+Agora vamos fazer de volta
