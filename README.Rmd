@@ -47,9 +47,11 @@ kable(head(dados))
 
 Sempre que possível, observe os tipos de variáveis que vc está usando, pois isso é importante para os testes estatísticos e minimizar erros durante execução de códigos.
 
-```{r, warning=F, , out.width= "60%"}
+```{r plot1, warning=F, , out.width= "60%"}
 library(ggplot2)
 dados |> ggplot(aes(x= Ca, y = Mg)) +
   geom_point(size = 3, col = "red") +
   geom_smooth(method = 'lm', formula = y~x) + theme_minimal()
 ```
+
+A é um gráfico de uma Análise de Regressão Linear Simples.
