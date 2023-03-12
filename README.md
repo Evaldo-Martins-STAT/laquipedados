@@ -13,7 +13,7 @@ determinada análise presente em um capítulo do livro. Todos esses dados
 são de pesquisas próprias ou de autores que gentilmente os cederam ou
 autorizaram seus usos.
 
-<img src="images/Capa de Esta Pesqueira_3.png" width="%15%" />
+<img src="images/Capa de Esta Pesqueira_3.png" width="50%" />
 
 ## Exemplo de carregamento de dados
 
